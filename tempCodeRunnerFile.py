@@ -1,5 +1,4 @@
 from ecdsa import SECP256k1
-import hashlib
 
 # Given data
 r = 0xe37ce11f44951a60da61977e3aadb42c5705d31363d42b5988a8b0141cb2f50d
